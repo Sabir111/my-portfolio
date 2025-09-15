@@ -15,14 +15,14 @@ const About = () => {
   const journey = [
     {
       year: '2024 - Present',
-      title: 'Full Stack Developer',
+      title: 'Web Developer',
       company: 'Freelance',
       description: 'Building modern web applications using React, Node.js, and modern technologies.',
       icon: Briefcase
     },
     {
       year: '2023 - 2024',
-      title: 'Frontend Developer',
+      title: 'Web Developer',
       company: 'Learning & Projects',
       description: 'Focused on mastering React, JavaScript, and modern frontend development.',
       icon: GraduationCap
@@ -94,7 +94,7 @@ const About = () => {
                 className="space-y-6"
               >
                 <h2 className="text-3xl font-bold text-super-contrast">
-                  Full Stack Developer
+                  Web Developer
                 </h2>
                 <p className="text-lg text-super-contrast leading-relaxed">
                   I'm a passionate Full Stack Developer with a love for creating innovative digital solutions. 

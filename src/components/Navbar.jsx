@@ -157,7 +157,7 @@ const Navbar = () => {
             </motion.button>
             
             <motion.a
-              href="/CV.pdf"
+              href="/My-CV.pdf"
               download
               whileHover={{ scale: 1.02, y: -1 }}
               whileTap={{ scale: 0.98 }}

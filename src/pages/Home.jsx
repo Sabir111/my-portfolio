@@ -176,7 +176,7 @@ const Home = () => {
                     filter: 'drop-shadow(0 0 8px rgba(240, 147, 251, 0.3))'
                   }}
                 >
-                  Full Stack Developer
+                  Web Developer
                 </motion.h2>
               </div>
 
@@ -197,7 +197,7 @@ const Home = () => {
                 className="flex flex-col sm:flex-row gap-4"
               >
                 <motion.a
-                  href="/CV.pdf"
+                  href="/My-CV.pdf"
                   download
                   whileHover={{ scale: 1.05, y: -2 }}
                   whileTap={{ scale: 0.95 }}
@@ -380,7 +380,7 @@ const Home = () => {
                       <motion.p
                         className="text-lg text-primary-980 dark:text-primary-200 font-semibold"
                       >
-                        Full Stack Developer
+                        Web Developer
                       </motion.p>
                       <motion.p
                         animate={{ 
