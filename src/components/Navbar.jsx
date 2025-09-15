@@ -88,7 +88,7 @@ const Navbar = () => {
                   initial={{ opacity: 0.8 }}
                   animate={{ opacity: 1 }}
                 >
-                  Full Stack Developer
+                  Web Developer
                 </motion.span>
               </div>
             </Link>
